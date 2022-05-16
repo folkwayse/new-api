@@ -1,0 +1,1 @@
+npm install --legacy-peer-deps && npm update --legacy-peer-deps
